@@ -1,0 +1,11 @@
+package java;
+
+public class P001 implements Solution {
+
+    @Override
+    public String run() {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
+}

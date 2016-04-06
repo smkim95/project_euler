@@ -1,0 +1,11 @@
+package euler_java;
+
+public class P0002 implements Solution {
+
+    @Override
+    public String run() {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
+}
